@@ -8,3 +8,11 @@
    1. create github account
       connect vs code to github
       2.and publice github
+
+## lessongs 2
+
+5. List Products product listing
+   1. create Product type
+   2. create products array
+   3. add product images
+   4. render products
