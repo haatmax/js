@@ -41,7 +41,7 @@ export const sampleProducts: Product[] = [
       'Dial Window Material Type: Coated Glass · Dial Diameter: 39mm/27mm · Case Shape: Round · Band Length: 24cm · Clasp Type: Leather Deployment Bucket · Water Resistance ...',
   },
   {
-    name: 'BIDEN Mens Watches Chronograph Stainless Steel Waterproof Date Analog',
+    name: 'BIDEN Mens Watches ',
     slug: 'watch man',
     category: 'watch',
     image: '../images/biden p5.png',
