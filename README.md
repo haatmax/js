@@ -38,3 +38,8 @@
       1.
    9. return products
    10. run npm start
+9. Fetch Products From frontend
+   1. npm install axios
+   2. set axios base url
+   3. use effect hook
+   4. use reducer hook
