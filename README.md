@@ -54,3 +54,6 @@ import { HelmetProvider } from 'react-helmet-async'
   <RouterProvider router={router} />
 </HelmetProvider>
 ```
+
+12. Video-12-Load-Products-By-React-Query
+1. npm i @tanstack/react-query @tanstack/react-query-devtools
