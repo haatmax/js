@@ -43,3 +43,14 @@
    2. set axios base url
    3. use effect hook
    4. use reducer hook
+10. Set-Page-Title
+11. npm i react-helmet-async
+12. main.tsx
+
+```js
+import { HelmetProvider } from 'react-helmet-async'
+...
+<HelmetProvider>
+  <RouterProvider router={router} />
+</HelmetProvider>
+```
