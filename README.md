@@ -57,3 +57,7 @@ import { HelmetProvider } from 'react-helmet-async'
 
 12. Video-12-Load-Products-By-React-Query
 1. npm i @tanstack/react-query @tanstack/react-query-devtools
+1. crate -product - page
+1. index.ts
+1. productHooks.ts
+1. productPage.tsx
