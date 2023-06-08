@@ -15,7 +15,7 @@ export default function ProductPage() {
     data: product,
     isLoading,
     error,
-  } = useGetProductDetailsBySlugQuery(slug ?? '');
+  } = useGetProductDetailsBySlugQuery(slug!);
 
   // Rest of the component cod
 
