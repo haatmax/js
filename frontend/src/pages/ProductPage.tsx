@@ -8,7 +8,7 @@ import LoadingBox from '../componnents/LoadingBox';
 import MessageBox from '../componnents/MessageBox';
 import Rating from '../componnents/Rating';
 
-export default function ProductPage() {
+function ProductPage() {
   const params = useParams();
   const { slug } = params;
   const {
@@ -35,12 +35,9 @@ export default function ProductPage() {
 
   return (
     <div>
-      <Helmet>
-        <title>Product Page</title>
-      </Helmet>
       <Row>
         <Col md={6}>
-          <img className="large" src={product.image} alt={product.name} />
+          <img className="large" src={product.image} alt={product.name}></img>
         </Col>
         <Col md={3}>
           <ListGroup variant="flush">
@@ -97,3 +94,4 @@ export default function ProductPage() {
     </div>
   );
 }
+export default ProductPage;
