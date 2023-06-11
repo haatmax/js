@@ -61,3 +61,19 @@ import { HelmetProvider } from 'react-helmet-async'
 1. index.ts
 1. productHooks.ts
 1. productPage.tsx
+1. lessons/-14-Create-React-Context
+1. 1. Store.ts
+1.
+1. Mongodb Databesh
+   cannection type
+   TSMAX
+   tsadminuser
+   adminpassword
+
+# -15-Connect-To-MongoDB
+
+1. create mongodb database
+2. npm install dotenv mongoose @typegoose/typegoose
+3. put mongodb uri in .env
+4. MONGODB_URI=mongodb://localhost/tsmernamazona
+5. index.ts
