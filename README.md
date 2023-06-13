@@ -77,3 +77,7 @@ import { HelmetProvider } from 'react-helmet-async'
 3. put mongodb uri in .env
 4. MONGODB_URI=mongodb://localhost/tsmernamazona
 5. index.ts
+
+lession-34 34.
+
+1.  npm install --save-dev concurrently
